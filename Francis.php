@@ -1,8 +1,9 @@
+
 <?php
 class Francis{
  /**
      * Simple message responder.
-     *
+     * author: Steven Ly
      * @param String $input 
      * @return String  Response
      */
