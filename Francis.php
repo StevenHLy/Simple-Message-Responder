@@ -41,7 +41,7 @@ class Francis{
 			  }
 			}
 		
-		elseif(empty($input)||strlen($input)==0){
+		elseif(empty($input)||strlen($input)==0){// check if empty or lenght is zero
 			
 			 return 'See if I care!';
 		}
