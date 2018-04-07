@@ -1,2 +1,1 @@
-# Upenn
-Coding Assessment
+Simple message responder.
